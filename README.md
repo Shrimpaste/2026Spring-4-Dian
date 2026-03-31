@@ -7,7 +7,7 @@
 
 ## 📋 项目概述
 
-本项目是基于 **ESP32-S3** 开发板与 **ESP-IDF** 框架完成。作为一名**大一新生**，在**零基础**的情况下，借助 AI 编程助手的协助，完成了从 GPIO 点灯到 WiFi 网络协议的多个实验任务。
+本项目基于 **ESP32-S3** 开发板与 **ESP-IDF** 框架完成。作为一名**大一新生**，在**零基础**的情况下，借助 AI 编程助手的协助，完成了从 GPIO 点灯到 WiFi 网络协议的多个实验任务。
 
 ---
 
@@ -323,6 +323,12 @@ idf.py build flash monitor
 - [MAX98357A Datasheet](https://www.analog.com/media/en/technical-documentation/data-sheets/MAX98357A-MAX98357B.pdf)
 - [WS2812 Datasheet](https://cdn-shop.adafruit.com/datasheets/WS2812.pdf)
 - [minimp3](https://github.com/lieff/minimp3)
+
+---
+
+## 💌 写在最后
+
+也许我是众竞争者中完成度较差甚至最差的，但是我饱含着对学习的热情，对编程的热情，对嵌入式的热情以及对底层的热爱，尽力地理解学习去完成项目、实验与测试，即使结果不尽如人意。这份作品凝聚了我这几天的全部心血，每一个搞懂的模块、每一行调试过的代码，都是我向嵌入式世界迈出的一小步。希望能得到这个宝贵的学习机会，在团队中不断成长，从“尽力而为”走向“游刃有余”。
 
 ---
 
